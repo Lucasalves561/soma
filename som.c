@@ -10,6 +10,6 @@ int main()
    scanf("%i", &n2);
 
     soma = (n1 + n2);
-      printf ("a soma entre esses dois numeros é %i", soma);
+      printf ("a soma entre esses dois numeros é %d", soma);
   return 0;
 }
